@@ -1,5 +1,5 @@
 
-# 🚀 React Practice App
+# 🚀 react-food-app (progetto di studio personale)
 
 Benvenuto nella mia **React Practice App**! Ho creato questa applicazione per approfondire le mie competenze con **React** e per esercitarmi con vari concetti e funzionalità di sviluppo front-end, come il routing, la gestione dello stato e l'integrazione di componenti.
 
